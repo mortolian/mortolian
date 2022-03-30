@@ -7,6 +7,6 @@
 
 - 💬 You are always welcome to ask me about anything in the `CSS, HTML, PHP, JAVASCRIPT, PYTHON` space and I will see if I can help.
 
-You can find me at [https://linkedin.mortolio.com](LinkedIn) and [https://gideon.dev](Gideon's Website and Slice of the Internet).
+You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Gideon's Website and Slice of the Internet](https://gideon.dev).
 
 **mortolian/mortolian**
