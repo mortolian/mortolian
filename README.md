@@ -11,6 +11,6 @@ ___
 
 ___
 
-You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Gideon's Website and Slice of the Internet](https://gideon.dev).
+You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
 
 **mortolian/mortolian**
