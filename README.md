@@ -14,3 +14,5 @@ ___
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
 
 **mortolian/mortolian**
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![GitHub stars](https://img.shields.io/github/stars/mortolian)](https://GitHub.com/mortolian)
