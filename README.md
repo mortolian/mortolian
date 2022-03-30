@@ -9,10 +9,9 @@ ___
 
 - 💬 You are always welcome to ask me about anything in the `CSS, HTML, PHP, JAVASCRIPT, PYTHON` space and I will see if I can help.
 
+
 ___
 
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
 
 **mortolian/mortolian**
-
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![GitHub stars](https://img.shields.io/github/stars/mortolian)](https://GitHub.com/mortolian)
