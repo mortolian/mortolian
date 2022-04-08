@@ -7,7 +7,7 @@
 ___
 
 - 💬 You are always welcome to ask me about anything in the `CSS, HTML, PHP, JAVASCRIPT, PYTHON` space and I will see if I can help.
-- 💬 I also have a lot of experience (7+ years) with `AGILE` in the software development space as well as other areas of any business and I am always willing to listen and possibly offer advice.
+- 💬 I also have 7+ years experience with `AGILE` and `` in the software development space as well as other areas of any business and I am always willing to listen and possibly offer advice.
 ___
 
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
