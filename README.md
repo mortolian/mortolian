@@ -2,8 +2,8 @@
 
 ### This is where I keep all my code and contribute to other projects.
 
-- [ ] I am currently working on Test53 a lot. This is just a learning project which I hope can be helpful to a lot of people out there.
-- [ ] I am also updating my Python backup application and should be done soon.
+- [ x ] I am currently working on Test53 a lot. This is just a learning project which I hope can be helpful to a lot of people out there.
+- [ x ] I am also updating my Python backup application and should be done soon.
 ___
 
 - 💬 You are always welcome to ask me about anything in the `CSS, HTML, PHP, JAVASCRIPT, PYTHON` space and I will see if I can help.
@@ -12,7 +12,9 @@ ___
 
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
 
-**mortolian/mortolian**
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mortolian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gideonschoonbee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mortolian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/gideon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Skills
 
@@ -41,7 +43,3 @@ You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/mortolian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gideonschoonbee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mortolian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/gideon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
