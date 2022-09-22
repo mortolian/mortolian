@@ -12,7 +12,7 @@ Some things I am working on:
 
 ___
 
-You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
+You can find me on [LinkedIn](https://linkedin.mortolio.com) and I have a portfolio [Website](https://gideon.dev) as well.
 
 ___
 
