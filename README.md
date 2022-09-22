@@ -8,9 +8,13 @@ Some things I am working on:
 
 - I just tested my own RSYNC automation project "python-rsync-backup" and will have a version 2 available soon. Backup solutions out there did not really get things done the way I wanted it to.
 
+- I am starting a new project called "Shortento.com". The idea is to build a platform that helps you link your resources in all kinds of different ways using DNS and Link shorteners. I think it will be an amazing and challenging project to work on.
+
 ___
 
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
+
+___
 
 ### Skills
 
