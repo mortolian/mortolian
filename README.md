@@ -1,8 +1,13 @@
-# Welcome to my GitHub Space
+# Welcome to my GitHub Profile
 
-### This is where I keep all my code and contribute to other projects.
+I recently moved many of my projects to "private" because they were getting old and did not represent my current level of knowledge and skill. I hope to add some new projects I have been working on soon.
 
-- [ x ] I am currently working on Test53 a lot. This is just a learning project which I hope can be helpful to a lot of people out there.
+Some things I am working on:
+
+- I am redeveloping Test53.com at the moment. This is a passion project and teaches me a bunch. I hope to release a version of this in the last quarter of 2022.
+
+- I just tested my own RSYNC automation project "python-rsync-backup" and will have a version 2 available soon. Backup solutions out there did not really get things done the way I wanted it to.
+
 ___
 
 You can find me at [LinkedIn](https://linkedin.mortolio.com) and [Website](https://gideon.dev).
