@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Welcome to my GitHub profile
 
 I recently moved many of my projects to "private" because they were getting old and did not represent my current level of knowledge and skill. I hope to add some new projects I have been working on soon.
 
