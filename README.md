@@ -10,6 +10,8 @@ Some things I am working on:
 
 - I am starting a new project called "Shortento.com". The idea is to build a platform that helps you link your resources in all kinds of different ways using DNS and Link shorteners. I think it will be an amazing and challenging project to work on. I look forward to start work on the mock site soon.
 
+- I just completed my new personal portfolio. Have a look and let me know what you think. [gideon.dev](https://gideon.dev)
+
 ___
 
 You can find me on [LinkedIn](https://linkedin.mortolio.com) and I have a portfolio [Website](https://gideon.dev) as well.
