@@ -6,7 +6,7 @@ Some things I am working on:
 
 - My own RSYNC automation project "python-rsync-backup" is now available in version 2. Vesion 1 is still available but considered EOL.
 
-- I am redeveloping (https://test53.com)[Test53.com] at the moment. This is a passion project and teaches me a bunch. I hope to release a version of this in the last quarter of 2022.
+- I am redeveloping [Test53.com](https://test53.com) at the moment. This is a passion project and teaches me a bunch. I hope to release a version of this in the last quarter of 2022.
 
 - I am starting a new project called "Shortento.com". The idea is to build a platform that helps you link your resources in all kinds of different ways using DNS and Link shorteners. I think it will be an amazing and challenging project to work on. I look forward to start work on the mock site soon.
 
