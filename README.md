@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-I recently moved many of my projects to "private" because they were old and were not as useful anymore. I would like to replace them with projects which you can use and where I can contribute in a positive way.
+I recently moved many of my projects to "private" because they were old and less useful. I would like to replace them with projects which you can use and where I can contribute in a positive way. Maybe some of them will be usefull enough to attract some contributers.
 
 ---
 
