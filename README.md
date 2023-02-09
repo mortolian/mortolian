@@ -6,15 +6,17 @@ Some things I am working on:
 
 - My own RSYNC automation project "python-rsync-backup" is now available in version 2. Vesion 1 is still available but considered EOL.
 
-- I am redeveloping [Test53.com](https://test53.com) at the moment. This is a passion project and teaches me a bunch. You can visit the site and see my progress. I hope to have the initial version complete before the end of 2022.
+- I am starting a new MVP project called [Shortento.com](https://shortento.com). The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
 
-- I am starting a new project called "Shortento.com". The idea is to build a platform that helps you link your resources in all kinds of different ways using DNS and Link shorteners. I think it will be an amazing and challenging project to work on. I look forward to start work on the mock site soon.
+- I am redeveloping [Test53.com](https://test53.com) at the moment. This is a passion project and gives me a platform to try and learn new things. I have many ideas for the site, but because it is not aimed at becoming a income generating site I don't spend as much time on it as I would like to. I would love to open the site up to other contributers when it is more complete and all the backend code is available on the interface.
 
-- I just completed my new personal portfolio. Have a look and let me know what you think. [gideon.dev](https://gideon.dev)
+---
+
+- I completed the refactoring of my portfolio but just like me it will continue to evolve. I hope you take a moment to visit it. [gideon.dev](https://gideon.dev)
 
 ___
 
-You can find me on [LinkedIn](https://linkedin.mortolio.com) and I have a portfolio [Website](https://gideon.dev) as well.
+If you want to connect with me, I am on [LinkedIn](https://linkedin.mortolio.com) and you can also follow me here on GitHub. I always welcome questions, comments and good or bad feedback.
 
 ___
 
