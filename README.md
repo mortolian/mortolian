@@ -1,14 +1,18 @@
 # Welcome to my GitHub profile
 
-I recently moved many of my projects to "private" because they were getting old and did not represent my current level of knowledge and skill. I hope to add some new projects I have been working on soon.
+I recently moved many of my projects to "private" because they were old and were not as useful anymore. I would like to replace them with projects which you can use and where I can contribute in a positive way.
+
+---
 
 Some things I am working on:
 
-- My own RSYNC automation project "python-rsync-backup" is now available in version 2. Vesion 1 is still available but considered EOL.
+- The RSYNC automation project "python-rsync-backup" is now available in version 2. Vesion 1 is still available but considered EOL.
 
 - I am starting a new MVP project called [Shortento.com](https://shortento.com). The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
 
 - I am redeveloping [Test53.com](https://test53.com) at the moment. This is a passion project and gives me a platform to try and learn new things. I have many ideas for the site, but because it is not aimed at becoming a income generating site I don't spend as much time on it as I would like to. I would love to open the site up to other contributers when it is more complete and all the backend code is available on the interface.
+
+- I want to contribute my first PyPi.com project soon and I think i have the perfect idea for something that is within my skill level and will be useful.
 
 ---
 
