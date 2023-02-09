@@ -6,7 +6,7 @@ I recently moved many of my projects to "private" because they were old and less
 
 Some things I am working on:
 
-- The RSYNC automation project "python-rsync-backup" is now available in version 2. Vesion 1 is still available but considered EOL.
+- The RSYNC automation project `python-rsync-backup` is now available in version 2. Vesion 1 is still available but considered EOL.
 
 - I am starting a new MVP project called [Shortento.com](https://shortento.com). The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
 
