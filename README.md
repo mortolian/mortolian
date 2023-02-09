@@ -8,7 +8,7 @@ Some things I am working on:
 
 - The RSYNC automation project `python-rsync-backup` is now available in version 2. Vesion 1 is still available but considered EOL.
 
-- I am starting a new MVP project called [Shortento.com](https://shortento.com). The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
+- [Shortento.com](https://shortento.com) is a new MVP project I am starting with. The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
 
 - [Test53.com](https://test53.com) - I am redeveloping Test53 at the moment. This is a passion project and gives me a platform to try and learn new things. There are many great sites like this out there, but I have many ideas which I would like to try out. Because it is not aimed at becoming an income generating site I don't spend as much time on it as I would like to and when it is a bit more mature I hope to attract some code contributers.
 
