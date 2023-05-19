@@ -6,8 +6,6 @@ I recently moved many of my projects to "private" because they were not as usefu
 
 Some things I am working on:
 
-- [gideon.dev](https://gideon.dev) - I completed the refactoring of my portfolio but just like me it will continue to evolve. I hope you take a moment to visit it. The project is built using React.js and Next.js. I still have a bunch of things I wan to improve and do with it.
-
 - [Shortento.com](https://shortento.com) - is a new MVP project I am starting with. The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
 
 - [Test53.com](https://test53.com) - I am redeveloping Test53 at the moment. This is a passion project and I spend my free time on it. I hope yo get this project to a point where I can get more support for it and maybe some more people to asssit building the best DNS diagnostic and security tool on the web.
@@ -26,7 +24,7 @@ Some things I am working on:
 
 ### Connect with me
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gideon.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideonschoonbee)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-ef8b10?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2165629)
 
