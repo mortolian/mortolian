@@ -26,10 +26,9 @@ Some things I am working on:
 
 ### Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/gideonschoonbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gideonschoonbee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2165629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2165629" height="30" width="40" /></a>
-</p>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideonschoonbee)
+[![stackoverflow](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://stackoverflow.com/users/2165629))
 
 ___
 
