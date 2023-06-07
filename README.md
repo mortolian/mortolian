@@ -10,7 +10,7 @@ I removed all my old repo's to make space for new work and projects. I decicedd 
 
 - The RSYNC automation project `python-rsync-backup` is now available in version 2. Vesion 1 is still available but considered EOL.
 - I added a new repo `iac-ansible`. This has all the information and sample code I use to work with RedHat Ansible.
-- I am refactoring my own portfolio at the moment, created using Next.JS and React.JS. https://gideon.dev. (No repo on here, but I invite you to visit the site.) 
+- I am refactoring my own portfolio at the moment, created using Next.JS and React.JS. https://gideon.dev. (No repo on Github, but I invite you to visit the site.) 
 
 ---
 
