@@ -1,24 +1,20 @@
 # Welcome To My GitHub Profile
 
-I recently moved many of my projects to "private" because they were not as useful as they use to be. I hope yo replace them with new work very soon and I have already started with this in small increments.
+My hope for this profile is to publish more work that is small, but usefull to the community. I work full-time, but also try to give back to the community who contributes to my productivity every day.
 
 ---
 
-Some things I am working on:
-
-- [Shortento.com](https://shortento.com) - is a new MVP project I am starting with. The site is a service that will allow you to create permanent links to digital resources. The concept is very simple and I hope to differentiate it well and build something that everyone will understand the value of. I am not sure that this is the best name for the service, but hopefully some feedback will help me with something better.
-
-- [Test53.com](https://test53.com) - I am redeveloping Test53 at the moment. This is a passion project and I spend my free time on it. I hope yo get this project to a point where I can get more support for it and maybe some more people to asssit building the best DNS diagnostic and security tool on the web.
+### Some things I am working on
 
 - The RSYNC automation project `python-rsync-backup` is now available in version 2. Vesion 1 is still available but considered EOL.
-
-- I want to contribute my first PyPi.com project soon and I think i have the perfect idea for something that is within my skill level and will be useful.
-
-- I am experimenting with messaging services at the momoment and when I am ready I would like to share that code with everyone. I am building it as a "Self-hosted" solution and think it can be a very helpful tool.
+- I added a new repo `iac-ansible`. This has all the information and sample code I use to work with RedHat Ansible.
+- I am refactoring my own portfolio at the moment, created using Next.JS and React.JS. https://gideon.dev.
 
 ---
 
-- I am working on some ideas for a `keystone project` which I can use to display my technical skill level without having to subject myself to unnessasery technical tests.
+### Improvement
+
+If there is anything you see that can be improved, I welcome pull requests, feedback and advice. I also welcome collaboration and requests for a call to talk about technology or maybe a mistake you see me repeating.
 
 ---
 
