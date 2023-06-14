@@ -25,7 +25,6 @@ I removed all my old repo's to make space for new work and projects. I decicedd 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gideon.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideonschoonbee)
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-ef8b10?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2165629)
 
 ___
 
