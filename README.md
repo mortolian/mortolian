@@ -18,14 +18,6 @@ I removed all my old repo's to make space for new work and projects. I decicedd 
 
 - If there is anything you see that can be improved, I welcome pull requests, feedback and advice on all public repo's.
 - I also welcome collaboration on all projects.
-
----
-
-### Connect with me
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gideon.dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gideonschoonbee)
-
 ___
 
 ### Skills
