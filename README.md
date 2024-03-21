@@ -8,7 +8,7 @@ My hope for this profile is to publish more work that is small, but usefull to t
 
 I removed all my old repo's to make space for new work and projects. I decicedd to also remove all mention of projects which are not useful enough to be on this list. It motivates me to work on them more and eventually share them.
 
-- The RSYNC automation project `python-rsync-backup` is now available in version 2. Vesion 1 is still available but considered EOL.
+- The RSYNC automation project `python-rsync-backup` is now available in version 2. Version 1 is still available but considered EOL.
 - I added a new repo `iac-ansible`. This has all the information and sample code I use to work with RedHat Ansible.
 - I am refactoring my own portfolio at the moment, created using Next.JS and React.JS. https://gideon.dev. (No repo on Github, but I invite you to visit the site.) 
 
