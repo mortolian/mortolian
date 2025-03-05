@@ -27,3 +27,4 @@ ___
 * [Scrum Alliance Profile](https://www.scrumalliance.org/community/profile/gschoonbee)
 * [LinkedIn](https://www.linkedin.com/in/gideonschoonbee/)
 * [IC Agile Credentials](https://www.icagile.com/credentials/69317fed-f470-475f-b6c2-a02e8ef0e09c)
+* [Credly Badges](https://www.credly.com/users/gideon-schoonbee)
