@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gideon (a.k.a. mortol)
+# 👋 Hi, I’m Gideon / Mortolian
 
 Senior DevOps / Platform Architect focused on building **reliable, scalable systems** that support real businesses and real teams.
 
