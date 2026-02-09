@@ -1,30 +1,93 @@
-# Welcome To My GitHub Profile
+# 👋 Hi, I’m Gideon S. (mortolian)
 
-My hope for this profile is to publish more work that is small, but usefull to the community. I am a very busy independent contractor, but make a point of it to give back to the community as often as I can.
+Senior DevOps / Platform Architect focused on building **reliable, scalable systems** that support real businesses and real teams.
 
----
-
-### Some things I am working on
-
-I removed all my old repo's to make space for new work and projects. I decicedd to also remove all mention of projects which are not useful enough to be on this list. It motivates me to work on them more and eventually share them.
-
-- The RSYNC automation project `python-rsync-backup` is now available in version 2. Version 1 is still available but considered EOL.
-- I added a new repo `iac-ansible`. This has all the information and sample code I use to work with RedHat Ansible.
-- I am refactoring my own portfolio at the moment, created using Next.JS and React.JS. https://gideon.dev. (No repo on Github, but I invite you to visit the site.)
-- I have some S3 related work I will add in public repo's soon, just cleaning it up at the moment. Things like changing ACLs recursively over large amounts of files.
+My open-source work reflects how I design, automate, and maintain production systems — with clarity, pragmatism, and long-term operability in mind.
 
 ---
 
-### Improvement
+## 🧭 What I Do
 
-- If there is anything you see that can be improved, I welcome pull requests, feedback and advice on all public repo's.
-___
+I design and evolve platforms at the intersection of:
 
-### Some Skills
+- Cloud infrastructure & Kubernetes
+- Automation, CI/CD, and GitOps
+- Data-driven systems and AI-enabled workflows
+- Engineering practices that scale with teams
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I’m especially interested in *reducing operational friction* and *making complex systems boring to run*.
 
-* [Scrum Alliance Profile](https://www.scrumalliance.org/community/profile/gschoonbee)
-* [LinkedIn](https://www.linkedin.com/in/gideonschoonbee/)
-* [IC Agile Credentials](https://www.icagile.com/credentials/69317fed-f470-475f-b6c2-a02e8ef0e09c)
-* [Credly Badges](https://www.credly.com/users/gideon-schoonbee)
+---
+
+## 🛠 How I Work
+
+- I favor **simple architectures that age well**
+- I automate to reduce cognitive load, not to impress
+- I document decisions so systems are understandable years later
+- I treat infrastructure as a product, not a side effect
+
+If you’re reviewing my profile as part of a hiring or collaboration process:  
+**this GitHub is intentionally representative of how I think and build.**
+
+---
+
+## 🧰 Technical Focus
+
+**Platforms & Infrastructure**
+- Kubernetes · Helm · Terraform · Ansible
+- CI/CD pipelines · GitOps · Observability
+- Linux · Containers · Cloud-native design
+
+**Languages**
+- Python · JavaScript · Bash
+
+**Cloud**
+- AWS · Azure · Docker
+
+**Engineering Practices**
+- Testing & validation
+- Security-minded automation
+- API and system design
+- Reliability & maintainability first
+
+---
+
+## 📂 Selected Work
+
+These repositories are small by design and production-minded in approach:
+
+| Project | Focus |
+|-------|-------|
+| **iac-ansible** | Practical automation patterns for infrastructure |
+| **rsync-remote-backup** | Reliable backup tooling with operational clarity |
+| **code-js-cidr** | Networking utilities built for correctness and reuse |
+| **code-js-tictactoe** | Simple system with tests — intentionally readable |
+
+Each project reflects design choices I’d stand behind in production.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortolian&show_icons=true&hide_title=true)
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I’m open to:
+- Senior DevOps / Platform / Architecture roles
+- Advisory or consulting engagements
+- Open-source collaboration
+
+If you’re evaluating technical depth, system thinking, or engineering judgment,  
+**I’m happy to discuss the design decisions behind any of my work instead of doing contrived coding tests.**
+
+---
+
+## 🔗 Elsewhere
+
+- Website: https://gideon.dev  
+- LinkedIn: https://www.linkedin.com/in/gideonschoonbee
+
+Thanks for stopping by.
