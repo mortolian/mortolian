@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gideon a.k.a. Mortolian
+# Hi, I’m Gideon a.k.a. Mortolian
 
 Senior DevOps / Platform Architect focused on building **reliable, scalable systems** that support real businesses and real teams.
 
@@ -6,7 +6,7 @@ My open-source work reflects how I design, automate, and maintain production sys
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
 I design and evolve platforms at the intersection of:
 
@@ -19,7 +19,7 @@ I’m especially interested in *reducing operational friction* and *making compl
 
 ---
 
-## 🛠 How I Work
+## How I Work
 
 - I favor **simple architectures that age well**
 - I automate to reduce cognitive load, not to impress
@@ -31,7 +31,7 @@ If you’re reviewing my profile as part of a hiring or collaboration process:
 
 ---
 
-## 🔗 Elsewhere
+## Elsewhere
 
 - Website: https://gideon.dev  
 - LinkedIn: https://www.linkedin.com/in/gideonschoonbee
